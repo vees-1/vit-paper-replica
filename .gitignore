@@ -1,0 +1,25 @@
+# Ignore generated files, data, models, environments, and system artifacts
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+venv/
+env/
+.venv/
+
+data/
+
+models/
+*.pt
+*.pth
+*.ckpt
+
+runs/
+logs/
+wandb/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
