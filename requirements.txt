@@ -1,6 +1,6 @@
 torch
+torchinfo
 torchvision
-torchaudio
 numpy
 pandas
 matplotlib
@@ -8,5 +8,4 @@ seaborn
 scikit-learn
 tqdm
 pillow
-torchinfo
 requests
