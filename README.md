@@ -1,4 +1,4 @@
-#  Research paper replication
+# Vision Transformer (ViT)
 
 Paper: Dosovitskiy et al. (2021) — [*An Image is Worth 16×16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929)   
 Conference: ICLR 2021
@@ -158,6 +158,7 @@ Open and run `vit.ipynb` sequentially. The notebook is organized into the follow
 ## Acknowledgements
 
 Architecture design follows the original ViT paper by Dosovitskiy et al. (2021). Model variants and hyperparameters are sourced directly from Tables 1 and 3 of the paper. The `torchvision` pretrained weights correspond to the `ViT_B_16_Weights.DEFAULT` checkpoint.
+
 
 
 
